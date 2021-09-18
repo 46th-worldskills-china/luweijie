@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*- 
 # @Time : 2021/9/18 10:04 
 # @Author : daidai
-# @File : python练习.py
+# @File : python练习.py 
 
 arr_list = []
 num = 0
